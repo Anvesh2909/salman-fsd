@@ -45,7 +45,7 @@ const Hero = () => {
                                 Your Events, Our Platform!
                             </h1>
                             <p className="text-lg mb-8 text-gray-600">
-                                Book and manage events with ease. Join a community of sports enthusiasts and organizers.
+                                Book and manage events with ease. Join a community of enthusiasts and organizers.
                             </p>
                             <div className="flex flex-col space-y-4 md:space-y-0 md:flex-row md:space-x-4">
                                 <input
