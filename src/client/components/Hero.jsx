@@ -5,7 +5,7 @@ const Hero = () => {
     const popularEvents = [
         {
             _id: '1',
-            imageUrl: '/assets/images/event-1.jpg',
+            imageUrl: '/assets/images/test.png',
             title: 'Weeknd Consert',
             startDateTime: '2024-12-15T09:00:00',
             isFree: false,
@@ -15,7 +15,7 @@ const Hero = () => {
         },
         {
             _id: '2',
-            imageUrl: '/assets/images/event-2.jpg',
+            imageUrl: '/assets/images/test-2.png',
             title: 'RAY, a success story',
             startDateTime: '2024-12-20T18:00:00',
             isFree: true,
@@ -25,7 +25,7 @@ const Hero = () => {
         },
         {
             _id: '3',
-            imageUrl: '/assets/images/event-3.jpg',
+            imageUrl: '/assets/images/test.png',
             title: 'Web3 and Blockchain',
             startDateTime: '2024-12-25T07:30:00',
             isFree: false,
